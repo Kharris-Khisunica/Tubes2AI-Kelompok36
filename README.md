@@ -13,10 +13,12 @@ Repository ini berisi implementasi model deteksi serangan jaringan menggunakan *
 8. **Shellcode**
 9. **Worms**
 
+Program yang dibuat diharapkan dapat memprediksi adanya serangan termasuk jenis serangan untuk suatu data paket jaringan.
+
 ## Cara Set up dan Run Program
-- 1
-- 2
-- 3
+- 1. Buka folder src, unduh file bertipe *Jupyter Notebook* (ekstensi .ipynb)
+- 2. Jalankan seluruh *cell* pada file tersebut, pastikan seluruh proses download berhasil dan package tersedia untuk di-*import*
+- 3. Perhatikan hasil *output* program, penjelasan lebih detail mengenai output tersebut terdapat pada file di folder doc
 
 ## Pembagian Tugas Anggota Kelompok
 
