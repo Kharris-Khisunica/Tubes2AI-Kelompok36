@@ -24,8 +24,8 @@ Program yang dibuat diharapkan dapat memprediksi adanya serangan termasuk jenis 
 
 |  NIM   |    Nama Anggota       | Tugas      |
 |--------|-----------------------|------------|
-|10321009|Sahabista Arkitanego A.|            |
-|10821019|Dean Hartono           |            |
-|12821046|Fardhan Indrayesa      |            |
-|13522051|Kharris Khisunica      |            |
-|18321011|Wikan Priambudi        |            |
+|10321009|Sahabista Arkitanego A.|  ID3, Data Balancer, Penjelasan singkat implementasi model (KNN, Naive-Bayes, ID3), Laporan pembentukan model ID3, Penjelasan proses Data Preprocessing, Pipeline.          |
+|10821019|Dean Hartono           |    Penjelasan EDA, Set Up Program, Debugging        |
+|12821046|Fardhan Indrayesa      | Feature Scaling, Feature Encoding, Dimensionality Reduction, KNN, Naive-Bayes, Confusion Matrix KNN, Confusion Matrix Naive-Bayes, laporan pembentukan model (KNN, Naive-Bayes), Perbandingan dengan referensi (KNN, Naive-Bayes), dan Evaluasi (KNN, Naive-Bayes           |
+|13522051|Kharris Khisunica      |   EDA, Pipeline, Preprocessing         |
+|18321011|Wikan Priambudi        |    Penjelasan EDA, Dealing with Outlier, Feature Engineering, ID3        |
